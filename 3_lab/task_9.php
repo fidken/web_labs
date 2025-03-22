@@ -31,7 +31,7 @@ $array = [2, 5, 3, 9];
 $result = $array[0] * $array[1] + $array[2] * $array[3];
 echo "Результат перемножения: $result\n";
 
-$user = ['name' => 'Кирилл', 'surname' => 'Куренков', 'patronymic' => 'Александрович'];
+$user = ['name' => 'Владислав', 'surname' => 'Антоненко', 'patronymic' => 'Иванович'];
 echo $user['surname'] . ' ' . $user['name'] . ' ' . $user['patronymic'] . "\n";
 
 
